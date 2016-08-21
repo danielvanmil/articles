@@ -1,0 +1,5 @@
+id,name,artist,price
+0,Ten,Pearl Jam,10.00
+1,VS,Pearl Jam,20.00
+2,Rush of blood to the head,Coldplay,10.00
+3,Black,Metallica,20.00
